@@ -58,6 +58,7 @@ Ref: pembayaran.id_pembelian > pembelian.id_pembelian
 
 - ✅ Tampilan Menu pada index
 - ✅ Action Crud
+- ✅ PDO security
 
 
 ---
