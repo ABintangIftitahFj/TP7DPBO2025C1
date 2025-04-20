@@ -1,6 +1,5 @@
 # TP7DPBO2025C1
-TP7DPBO2025C1
-# TP6DPBO2025C1
+
 
 ## Janji  
 Saya **A Bintang Iftitah FJ** dengan NIM **2305995** mengerjakan soal TP 7 dalam mata kuliah **Desain dan Pemrograman Berorientasi Objek** untuk keberkahanNya, maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
